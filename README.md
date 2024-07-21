@@ -29,10 +29,13 @@
 ###
 
 <h3 align="left">I'm  DevOps engineer</h3>
-- :school: I am a `Junior` at [Faculty of Computers & Informatics]
-- :student: I’m currently learning  `cloud Engineering`.
-- :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume)
+- :school: I graduated from the Faculty of Computers and Information
+<br>
+- :student: I’m currently learning  =>  cloud Engineering.
+<br>
+- :nerd_face: Always  learning new things.
+<br>
+- :thinking: I’m currently open for a new  job opportunity , this is [MY RESUME]()
 
 ###
 
